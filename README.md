@@ -1,4 +1,4 @@
-# flutter_food
+# shopping
 
 A new Flutter project.
 
